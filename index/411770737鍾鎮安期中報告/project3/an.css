@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+tablecaption{
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+}
+table{
+    font-family: "Comic Sans Ms",cursive,sans-serif;
+    border: 2px rgb(255, 255, 255);
+    background-color:rgb(140, 189, 227);
+    width: 100%;
+    text-align: center;
+
+}
